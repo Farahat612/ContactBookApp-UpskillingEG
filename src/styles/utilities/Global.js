@@ -9,7 +9,7 @@ const GlobalStyle = createGlobalStyle`
   }
   body {
     min-height: 100vh;
-    background-image: url('public/images/bg.jpg');
+    background-image: url('/images/bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
