@@ -96,6 +96,10 @@ This command will start the application and open it in your default web browser.
 
 > You can also try a live demo here. or watch the following demo:
 
+ https://github.com/Farahat612/ContactBookApp-UpskillingEG/assets/67427124/9e938867-6e9b-4f1b-a401-c0fe729c03f7
+
+
+
 ## Technologies Used
 
 This app is built using the following technologies:
