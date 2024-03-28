@@ -10,7 +10,7 @@ A simple CRUD and API ReactJS web app that serves as the filteration task for [U
 4. [Limitaions and Issues](#limitaions-and-issues)
 5. [API Docs and Routes](#api-docs-and-routes)
 6. [Installation](#installation)
-7. [Usage](#usage)
+7. [Usage And Demo](#usage-and-demo)
 8. [Technologies Used](#technologies-used)
 9. [File Structure](#file-structure)
 10. [Contributing](#contributing)
@@ -86,13 +86,15 @@ To run this React app locally on your machine, follow these steps:
 3. Install the necessary dependencies using npm:
    > `npm install`
 
-## Usage
+## Usage And Demo
 
 After completing the installation steps, you can start the development server by running:
 
 > `npm run dev `
 
 This command will start the application and open it in your default web browser. You can then interact with the application using the provided interface.
+
+> You can also try a live demo here. or watch the following demo:
 
 ## Technologies Used
 
