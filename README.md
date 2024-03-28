@@ -5,21 +5,31 @@ A simple CRUD and API ReactJS web app that serves as the filteration task for [U
 ## Table of Contents
 
 1. [Overview](#overview)
-2. [Features](#features)
-3. [Limitaions and Issues](#limitaions-and-issues)
-4. [API Docs and Routes](#api-docs-and-routes)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Technologies Used](#technologies-used)
-8. [File Structure](#file-structure)
-9. [Contributing](#contributing)
-10. [License](#license)
+2. [Application Architecture](#application-architecture)
+3. [Features](#features)
+4. [Limitaions and Issues](#limitaions-and-issues)
+5. [API Docs and Routes](#api-docs-and-routes)
+6. [Installation](#installation)
+7. [Usage](#usage)
+8. [Technologies Used](#technologies-used)
+9. [File Structure](#file-structure)
+10. [Contributing](#contributing)
+11. [License](#license)
 
 ## Overview
 
 This React Contacts Book is a web application developed using React.js. It provides a user-friendly interface for managing contacts, including features like searching, pagination, and CRUD operations (Create, Read, Update, Delete).
+
 > <p align="center">
 >   <img width="100%" src="public/contact-book-mockup.png">
+> </p>
+
+## Application Architecture
+
+Refer to the following diagram to get the bigger picture about the application architecture and data flow.
+
+> <p align="center">
+>   <img width="100%" src="public/app-map.PNG">
 > </p>
 
 ## Features
